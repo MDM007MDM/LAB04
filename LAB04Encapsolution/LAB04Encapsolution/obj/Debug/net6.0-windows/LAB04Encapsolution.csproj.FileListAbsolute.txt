@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\LAB04Encapsolution\LAB04Encapsolution\bin\Debug\net6.0-windows\LAB04Encapsolution.exe
+C:\Users\Lenovo\source\repos\LAB04Encapsolution\LAB04Encapsolution\bin\Debug\net6.0-windows\LAB04Encapsolution.deps.json
+C:\Users\Lenovo\source\repos\LAB04Encapsolution\LAB04Encapsolution\bin\Debug\net6.0-windows\LAB04Encapsolution.runtimeconfig.json
+C:\Users\Lenovo\source\repos\LAB04Encapsolution\LAB04Encapsolution\bin\Debug\net6.0-windows\LAB04Encapsolution.dll
+C:\Users\Lenovo\source\repos\LAB04Encapsolution\LAB04Encapsolution\bin\Debug\net6.0-windows\LAB04Encapsolution.pdb
+C:\Users\Lenovo\source\repos\LAB04Encapsolution\LAB04Encapsolution\obj\Debug\net6.0-windows\LAB04Encapsolution.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\LAB04Encapsolution\LAB04Encapsolution\obj\Debug\net6.0-windows\LAB04Encapsolution.Form1.resources
+C:\Users\Lenovo\source\repos\LAB04Encapsolution\LAB04Encapsolution\obj\Debug\net6.0-windows\LAB04Encapsolution.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\LAB04Encapsolution\LAB04Encapsolution\obj\Debug\net6.0-windows\LAB04Encapsolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\LAB04Encapsolution\LAB04Encapsolution\obj\Debug\net6.0-windows\LAB04Encapsolution.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\LAB04Encapsolution\LAB04Encapsolution\obj\Debug\net6.0-windows\LAB04Encapsolution.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\LAB04Encapsolution\LAB04Encapsolution\obj\Debug\net6.0-windows\LAB04Encapsolution.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\LAB04Encapsolution\LAB04Encapsolution\obj\Debug\net6.0-windows\LAB04Encapsolution.dll
+C:\Users\Lenovo\source\repos\LAB04Encapsolution\LAB04Encapsolution\obj\Debug\net6.0-windows\refint\LAB04Encapsolution.dll
+C:\Users\Lenovo\source\repos\LAB04Encapsolution\LAB04Encapsolution\obj\Debug\net6.0-windows\LAB04Encapsolution.pdb
+C:\Users\Lenovo\source\repos\LAB04Encapsolution\LAB04Encapsolution\obj\Debug\net6.0-windows\LAB04Encapsolution.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\LAB04Encapsolution\LAB04Encapsolution\obj\Debug\net6.0-windows\ref\LAB04Encapsolution.dll
